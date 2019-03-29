@@ -1,5 +1,5 @@
 #_author_='Yasemin Öztürk'
-#Uygulama0I
+#Uygulama01
 
 sorular = ['Dünyadaki tüm yeni doğmuş bebekler La notasıyla ağlar.[D/Y]',
            '-1,1 sayısı -1,01\'den daha büyüktür.[D/Y]',
