@@ -7,7 +7,7 @@ sorular = ['Türkiye\'nin yüz ölçümü en büyük komşusu hangisidir?',
             '1950\'li yılların sonlarında tahılları yedikleri gerekçesiyle ülkesindeki tüm serçelerin öldürülmesini emreden ünlü dikdatör kimdir?',
             '1972\'de Apollo 17 uzay aracı mürettebatınca çekilen ve yerküreyi bütün olarak gösteren ünlü fotoğrafın adı nedir?',
             'Hangisi daha önce gerçekleşmiştir?']
-cevaplar = ['A', 'C', 'B', 'B', 'C']
+cevaplar = ['A', 'C', 'B', 'B', 'D']
 cevapA = ['İran', '86000', 'Josef Stalin', 'Mavi Boncuk', 'Fransız İhtilali']
 cevapB = ['Suriye', '88600', 'Mao Zedong', 'Mavi Bilye', 'Birinci Dünya Savaşı']
 cevapC = ['Yunanistan', '86400', 'Adolf Hitler', 'Mavi Gezegen', 'NATO\'nun kurulması']
