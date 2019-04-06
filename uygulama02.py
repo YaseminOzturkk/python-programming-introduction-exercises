@@ -1,5 +1,5 @@
        # _author_:"Yasemin Öztürk"
-                                      # date: 05.04.2019
+       # date: 05.04.2019
 
 
 sorular = ['Türkiye\'nin yüz ölçümü en büyük komşusu hangisidir?',
