@@ -1,6 +1,9 @@
        # _author_:"Yasemin Öztürk"
        # date: 05.04.2019
-
+       
+print("Hadi biraz bilgilerimizi ölçelim!")
+print("Başlıyoruz dostum!...")
+print("---------------------------------------------------------------------------------------------------")
 
 sorular = ['Türkiye\'nin yüz ölçümü en büyük komşusu hangisidir?',
             'Bir gün kaç saniyedir?',
@@ -22,5 +25,6 @@ for i in range(len(sorular)):
     cevap = input("Cevabınızı Giriniz: ")
     if cevaplar[i] == cevap.upper():
         puan +=1
-print("Tebrikler,testi Tamamladınız!")
+print("Tebrikler,testi tamamladınız!")
 print("Aldığınız not: " +str(int((puan/len(sorular))*100)))
+input()
